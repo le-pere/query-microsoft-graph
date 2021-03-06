@@ -1,6 +1,6 @@
 # Microsoft Graph Query
-**Le-pere testing**
-This Python script is used to interact with the [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview) service and provides integration with Amazon Web Services services for credential and data storage. 
+**Testar**
+This Python script is used to interact with the [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview) service and provides integration with Amazon Web Services services for credential and data storage.
 
 ## What problem does this solve?
 The script demonstrates how services from multiple public clouds can be strung together to formulate a solution to effieciently and securely pull data from an API.  This example uses Python to pull data from the Microsoft Graph API and stores it in Amazon S3 storage.  The credentials used to interact with the Microsoft Graph are stored securely in AWS KMS.
